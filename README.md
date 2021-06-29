@@ -1,10 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Bhavesh!</h1>
 <h3 align="center"> Passionate To Develop & Design Android App</h3>
- I'm a Computer Science student. Currently pursuing a Full-stack app development course at Masai Coding School. I love to do app development and open to learning'm an Aspiring Android Developer.
- 
--🌱 I love to code, solve problems, watch movies, eat food and blog!
--📫 You can reach out to me on <a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" rel="nofollow">LinkedIn</a>.
+
+<li>🌱 I’m currently learning Android.</li>
+
+<li>🌱 I love to code, solve problems, watch movies, eat food and blog!
+
+<li>📫 You can reach out to me on <a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" rel="nofollow">LinkedIn</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
