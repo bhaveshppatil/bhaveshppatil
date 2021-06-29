@@ -1,10 +1,10 @@
-### Hi there 👋
-
 
 <h1 align="center">Hi 👋, I'm Bhavesh!</h1>
 <h3 align="center">A passionate to develop & design Android App</h3>
-
+<li> I'm an Aspiring Android Developer.</li>
 - 🌱 I’m currently learning **Android Development**
+<li>I love to code, solve problems, watch movies, eat food and blog!</li>
+<li> You can reach out to me on <a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" rel="nofollow">LinkedIn</a>.</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
