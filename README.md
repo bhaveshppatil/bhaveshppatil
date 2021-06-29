@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhavesh!</h1>
 <h3 align="center"> Passionate To Develop & Design Android App</h3>
-<li> I'm an Aspiring Android Developer.</li>
-<li> I’m currently learning Android Development</li>
+<li> II'm a Computer Science student. Currently pursuing a Full-stack app development course at Masai Coding School. I love to do app development and open to learning'm an Aspiring Android Developer.</li>
 <li> I love to code, solve problems, watch movies, eat food and blog!</li>
 <li> You can reach out to me on <a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" rel="nofollow">LinkedIn</a>.</li>
 
