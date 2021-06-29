@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bhavesh!</h1>
-<h3 align="center">A passionate to develop & design Android App</h3>
+<h3 align="center"> Passionate To Develop & Design Android App</h3>
 <li> I'm an Aspiring Android Developer.</li>
 <li> I’m currently learning Android Development</li>
 <li> I love to code, solve problems, watch movies, eat food and blog!</li>
