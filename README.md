@@ -17,8 +17,7 @@
   ## ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Android](https://img.shields.io/badge/-android-E34A86?style=flat-square&logo=android)
-![COmputer Security](https://img.shields.io/badge/-computer_security-E34A86?style=flat-square&logo=security)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
