@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshppatil&show_icons=true&locale=en&layout=compact" alt="bhaveshppatil" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bhaveshppatil&show_icons=true&locale=en" alt="bhaveshppatil" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bhaveshppatil&show_icons=true&locale=en" alt="bhaveshppatil" /></p>
  
