@@ -18,8 +18,7 @@
 
 - 💬 Ask me about **Android Developement, Java and security**
 
-
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshppatil" alt="bhaveshppatil" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhaveshppatil)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
