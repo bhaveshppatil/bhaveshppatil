@@ -7,7 +7,7 @@
 <li>🌱 I’m currently learning Android.</li>
 <li>🔭 I’m currently working on Muzio Player clone.</li>
 <li>💬 Ask me about Android, Java and Security.</li>
-<li>🌱 I love to code, solve problems, watch movies, eat food and blog!
+<li>🌱 I love to code, solve problems, watch movies, blogging and Hacking!
 <li>👨‍💻 All of my projects are available at https://github.com/bhaveshppatil
 <li>📫 You can reach out to me on <a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" rel="nofollow">LinkedIn</a>.
 
