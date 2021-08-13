@@ -4,13 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshppatil&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshppatil" /> </p>
 
-<li>🌱 I’m currently learning Android.</li>
-<li>🔭 I’m currently working on Muzio Player clone.</li>
-<li>💬 Ask me about Android, Java and Security.</li>
-<li>🌱 I love to code, solve problems, watch movies, blogging and Hacking!
-<li> 👨‍💻 All of my projects are available at <a href="https://github.com/bhaveshppatil" rel="nofollow">GitHub</a>.
-<li>📫 You can reach out to me on <a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" rel="nofollow">LinkedIn</a>.
- 
+- 🌱 I’m currently learning **Android**
+
+- 🔭 I’m currently working on **Muzio Player** clone
+
+- 🤝 I’m looking for help with **Competitive Programming**
+
+- 👨‍💻 I love to code, solve problems, watch movies, blogging and Hacking!
+
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/bhaveshppatil)**
+
+- 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/bhavesh-patil-78b346204/)**
+
+- 💬 Ask me about **Android Developement, Java and security**
+
+
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshppatil" alt="bhaveshppatil" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
