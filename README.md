@@ -23,7 +23,7 @@
 
 - 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/bhavesh-patil-78b346204/)**
 
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/bhaveshppatil)**
+- 👨‍💻 All of my projects are available on **[Github](https://github.com/bhaveshppatil)**
 
 - 💬 Ask me about **Android Developement, Java and security**
 
