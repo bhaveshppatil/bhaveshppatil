@@ -1,8 +1,17 @@
 
-<h1 align="center">Hi 👋, I'm Bhavesh!</h1>
-<h3 align="center"> Passionate To Develop & Design Android App</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshppatil&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshppatil" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bhavesh Patil </h1>
+<h3 align="center"> Passionate To Develop & Design Android App </h3>
+<p align="center">
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=bhaveshppatil&color=blue" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Focus-Android%20Development -blue" />
+  <img src="https://img.shields.io/badge/Lives-Mumbai%20Maharashtra -blue" />
+  <img src="https://img.shields.io/badge/Languages-Marathi%20,%20Hindi%20%26%20English-blue" />
+</p>
+<hr>
 
 - 🌱 I’m currently learning **Android**
 
