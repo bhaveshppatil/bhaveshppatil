@@ -35,7 +35,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/bhavesh__patil" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/bhavesh__patil" height="50" width=50" /></a>
+<a href="https://twitter.com/bhavesh__patil" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/bhavesh__patil" height="50" width=50" /></a>
 <a href="https://www.instagram.com/bhavesh_.patil/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/instagram.png" alt="bhavesh_.patil" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/bhavesh-patil-78b346204/" height="50" width="50" /></a>
 <a href="mailto:bhavesh.patil0325@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:bhavesh.patil0325@gmail.com" height="50" width="50" /></a>
