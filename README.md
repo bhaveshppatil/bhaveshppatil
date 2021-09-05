@@ -13,7 +13,7 @@
 </p>
 <hr>
 
-  <img align="right" alt="GIF" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/code.gif?raw=true" width="400" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/code.gif?raw=true" width="400" height="280" />
 
 - 🌱 I’m currently learning **Android**
 
