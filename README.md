@@ -13,6 +13,8 @@
 </p>
 <hr>
 
+  <img align="right" alt="GIF" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/code.gif?raw=true" width="480" height="300" />
+
 - 🌱 I’m currently learning **Android**
 
 - 🔭 I’m currently working on **Muzio Player** clone
@@ -27,13 +29,16 @@
 
 - 💬 Ask me about **Android Developement, Java and security**
 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhaveshppatil)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/bhavesh__patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bhavesh__patil" height="30" width="40" /></a>
- <a href="https://www.instagram.com/bhavesh_.patil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavesh_.patil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavesh-patil-78b346204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavesh-patil-78b346204/" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/bhavesh__patil" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/bhavesh__patil" height="50" width=50" /></a>
+<a href="https://www.instagram.com/bhavesh_.patil/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/instagram.png" alt="bhavesh_.patil" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavesh-patil-78b346204/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/bhavesh-patil-78b346204/" height="50" width="50" /></a>
+<a href="mailto:bhavesh.patil0325@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:bhavesh.patil0325@gmail.com" height="50" width="50" /></a>
 </p>
 
 ### 🛠 &nbsp;Languages and Tools
