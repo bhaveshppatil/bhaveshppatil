@@ -47,7 +47,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/bhaveshppatil">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bhaveshppatil&show_icons=true&locale=en" alt="bhaveshppatil" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshppatil&show_icons=true&locale=en&layout=compact" alt="bhaveshppatil" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshppatil&show_icons=true&locale=en&layout=compact" alt="bhaveshppatil" />
 </a>
+
+
 
  
