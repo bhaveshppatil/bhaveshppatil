@@ -23,7 +23,9 @@
 
 - 👨‍💻 I love to code, solve problems, blogging and Hacking!
 
-- 👉 Visit my portfolio **[Portfolio](https://bhaveshppatil.github.io/)**
+- 👉 Visit my **[Portfolio](https://bhaveshppatil.github.io/)**
+
+- 👉 My Experience **[Resume](https://www.canva.com/design/DAEvb4omGiA/3yxzCsAI7fjYEkRU4OzCGA/view?utm_content=DAEvb4omGiA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
 
 - 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/bhavesh-patil-78b346204/)**
 
