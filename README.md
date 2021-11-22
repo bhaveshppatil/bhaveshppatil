@@ -27,7 +27,7 @@
 
 - 👉 See my Experience **[Resume](https://www.canva.com/design/DAEvb4omGiA/3yxzCsAI7fjYEkRU4OzCGA/view?utm_content=DAEvb4omGiA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
 
-- 📫 You can reach out to me on **<a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" target="_blank">LinkedIn</a>**
+- 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/bhavesh-patil-78b346204/)**
 
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/bhaveshppatil)**
 
