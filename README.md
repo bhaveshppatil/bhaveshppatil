@@ -13,8 +13,8 @@
 </p>
 <hr>
 
-  <img align="right" alt="GIF" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/code.gif?raw=true" width="380" height="280" />
-
+  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
+ 
 - 🌱 I’m currently learning **Android**
 
 - 🔭 I’m currently working on **Muzio Player** clone
@@ -33,7 +33,12 @@
 
 - 💬 Ask me about **Android Developement, Java and security**
 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshppatil&no-bg=true&no-frame=false&theme=light" alt="bhaveshppatil" /></a> </p>
+<div align="center">
+   <h4>🏆 Github Trophies</h4>
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=bhaveshppatil&no-bg=true&no-frame=false&theme=light&column=8"" alt="bhaveshppatil" />
+ </a>
+</div>
  
  ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
