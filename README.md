@@ -29,14 +29,14 @@
 
 - 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/bhavesh-patil-78b346204/)**
 
-- 👨‍💻 All of my projects are available on **[Github](https://github.com/bhaveshppatil)**
+- 👨‍💻 All of my projects are available on **[Github](https://github.com/bhaveshppatil?tab=repositories)**
 
 - 💬 Ask me about **Android Developement, Java and security**
 
 <div align="center">
-   <h4>🏆 Github Trophies</h4>
+  <h4>🏆 Github Trophies</h4>
  <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=bhaveshppatil&no-bg=true&no-frame=false&theme=light&column=8"" alt="bhaveshppatil" />
+ <img src="https://github-profile-trophy.vercel.app/?username=bhaveshppatil&no-frame=false&margin-w=10&theme=light&column=8"" alt="bhaveshppatil" />
  </a>
 </div>
  
