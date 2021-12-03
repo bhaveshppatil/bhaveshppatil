@@ -31,24 +31,26 @@
 
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/bhaveshppatil?tab=repositories)**
 
-- 💬 Ask me about **Android Developement, Java and security**
+- 💬 Ask me about **Android Developement, Java, Kotlin and Security**
 
  
  ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
+<a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/bhavesh-patil-78b346204/" height="50" width="50" /></a>
+<a href="https://medium.com/@bhaveshppatil" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/medium.png" alt="https://medium.com/@bhaveshppatil" height="50" width="50" /></a>
+<a href="mailto:bhavesh.patil0325@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:bhavesh.patil0325@gmail.com" height="50" width="50" /></a>
 <a href="https://twitter.com/bhavesh__patil" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/bhavesh__patil" height="50" width=50" /></a>
 <a href="https://www.instagram.com/bhavesh_.patil/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/instagram.png" alt="bhavesh_.patil" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/bhavesh-patil-78b346204/" height="50" width="50" /></a>
-<a href="mailto:bhavesh.patil0325@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:bhavesh.patil0325@gmail.com" height="50" width="50" /></a>
 </p>
 
-### 🛠 &nbsp;Languages and Tools
+ ### 🛠 &nbsp;Languages and Tools
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/android-os.png" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/figma.png" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/java.png" alt="java" width="40" height="40"/> </a> <a href="https://www.parrotsec.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/Parrot_Logo.png" alt="Parrot" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/Sqlite-square.png" alt="sqlite" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/kotlin.png" alt="kotlin" width="40" height="40"/>  </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/postman.png" alt="postman" width="40" height="40"/> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
  
  <p align = "center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshppatil&no-bg=true&no-frame=false&theme=light&column=8"" alt="bhaveshppatil" />
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=bhaveshppatil&no-bg=true&no-frame=false&theme=light&column=8"" alt="bhaveshppatil" />
  </p>
                                                                                                                                                  
 <p align = "center">
