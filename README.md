@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bhavesh Patil </h1>
-<h3 align="center"> Passionate To Develop & Design Android App </h3>
+<h3 align="center"> Passionate To Develop & Design Mobile App </h3>
 <p align="center">
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=bhaveshppatil&color=blue" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-Android%20Development -blue" />
+  <img src="https://img.shields.io/badge/Focus-Android,%20iOS%20Development -blue" />
   <img src="https://img.shields.io/badge/Lives-Mumbai%20Maharashtra -blue" />
   <img src="https://img.shields.io/badge/Languages-Marathi%20,%20Hindi%20%26%20English-blue" />
 </p>
@@ -15,13 +15,9 @@
 
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-- 🌱 I’m currently learning **Android**
+- 🔭 I’m currently working on **[Real Time Location ](https://www.notion.so/Real-Time-Location-Compass-Weather-f84d90f2628b41bbb95cc5c6ea286af2)** App
 
-- 🔭 I’m currently working on **Muzio Player** clone
-
-- 🤝 I’m looking for help with **Competitive Programming**
-
-- 👨‍💻 I love to code, solve problems, blogging and Hacking!
+- 👨‍💻 I love to code, solve problems and Hacking!
 
 - 👉 Visit my **[Portfolio](https://bhaveshppatil.github.io/)**
 
@@ -31,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/bhaveshppatil?tab=repositories)**
 
-- 💬 Ask me about **Android Developement, Java, Kotlin and Security**
+- 💬 Ask me about **Android, iOS Developement, Java, Kotlin and Security**
 
  
  ### 🤝🏻 &nbsp;Connect with Me
