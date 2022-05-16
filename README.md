@@ -23,11 +23,13 @@
 
 - 👉 See my Experience **[Resume](https://www.canva.com/design/DAEvb4omGiA/3yxzCsAI7fjYEkRU4OzCGA/view?utm_content=DAEvb4omGiA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
 
+- 📝 I regularly write articles on **[Medium](https://medium.com/@bhaveshppatil)**
+
 - 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/bhavesh-patil-78b346204/)**
 
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/bhaveshppatil?tab=repositories)**
 
-- 💬 Ask me about **Android, iOS Developement, Java, Kotlin and Security**
+- 💬 Ask me about **Android & iOS Developement, Java & Kotlin**
 
  
  ### 🤝🏻 &nbsp;Connect with Me
@@ -40,7 +42,7 @@
 </p>
 
  ### 🛠 &nbsp;Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/android-os.png" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/figma.png" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/java.png" alt="java" width="40" height="40"/> </a> <a href="https://www.parrotsec.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/Parrot_Logo.png" alt="Parrot" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/Sqlite-square.png" alt="sqlite" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/kotlin.png" alt="kotlin" width="40" height="40"/>  </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/postman.png" alt="postman" width="40" height="40"/> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/android-os.png" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/figma.png" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/java.png" alt="java" width="40" height="40"/> </a> <a href="https://www.parrotsec.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/Parrot_Logo.png" alt="Parrot" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/Sqlite-square.png" alt="sqlite" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/kotlin.png" alt="kotlin" width="40" height="40"/>  </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/postman.png" alt="swift" width="40" height="40"/> </a> <a href="https://www.swift.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/swift.png" alt="swift" width="40" height="40"/> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
  
