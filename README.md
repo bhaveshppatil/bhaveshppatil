@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Bhavesh Patil </h1>
+<h1 align="center">Hi👋🏻 I'm Bhavesh Patil </h1>
 <h3 align="center"> Passionate To Develop & Design Mobile App </h3>
 <p align="center">
 <p align="left"> 
