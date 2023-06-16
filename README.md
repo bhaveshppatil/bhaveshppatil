@@ -15,7 +15,7 @@
 
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-- 🔭 I’m currently working on **[AgroWorld](https://elastic-homegrown-53c.notion.site/AgroWorld-db0062bdf0ff4596a645186227edd9f8)** App
+- 🔭 I’m currently working on **[AgroWorld](https://github.com/bhaveshppatil/AgroWorld)** App
 
 - 👨‍💻 I love to code, solve problems and Hacking!
 
