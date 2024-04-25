@@ -31,11 +31,11 @@
 
 ### 📝 &nbsp;Learn developement concepts
 
--  S.O.L.I.D. Principle — Detail Explanation **[Notion](https://bhaveshppatil.notion.site/S-O-L-I-D-Principles-423ea1e6308d4bcaad26aa9041cb4c84?pvs=4)**
--  Kotlin Coroutines Android — Detail Explanation **[Notion](https://bhaveshppatil.notion.site/Coroutines-3bdd8031fe6e439285f1390a50a274e4?pvs=4)**
--  CICD - Continuous Integration and Continuous Delivery **[Notion](https://bhaveshppatil.notion.site/CICD-1f5378180a1f400db858b2f7b1431b1a?pvs=4)**
--  Software Development - Design Patterns **[Notion](https://bhaveshppatil.notion.site/Design-Pattern-18e1f59ca31c45e4a0579eeab000d8e8?pvs=4)**
--  Android Application Component — Detail Explanation **[Notion](https://bhaveshppatil.notion.site/Android-Components-982ec022ecfc40c2ad0361960382e3c7?pvs=4)**
+-  S.O.L.I.D. Principle — Detail Explanation **[Read here](https://bhaveshppatil.notion.site/S-O-L-I-D-Principles-423ea1e6308d4bcaad26aa9041cb4c84?pvs=4)**
+-  Kotlin Coroutines Android — Detail Explanation **[Read here](https://bhaveshppatil.notion.site/Coroutines-3bdd8031fe6e439285f1390a50a274e4?pvs=4)**
+-  CICD - Continuous Integration and Continuous Delivery **[Read here](https://bhaveshppatil.notion.site/CICD-1f5378180a1f400db858b2f7b1431b1a?pvs=4)**
+-  Software Development - Design Patterns **[Read here](https://bhaveshppatil.notion.site/Design-Pattern-18e1f59ca31c45e4a0579eeab000d8e8?pvs=4)**
+-  Android Application Component — Detail Explanation **[Read here](https://bhaveshppatil.notion.site/Android-Components-982ec022ecfc40c2ad0361960382e3c7?pvs=4)**
 
  ### 🤝🏻 &nbsp;Projects Readme's
  - Agro World Farming Application **[Project Details](https://bhaveshppatil.notion.site/Agro-World-be34cad60def41ffb1ae9993aa3c9181?pvs=4)**
