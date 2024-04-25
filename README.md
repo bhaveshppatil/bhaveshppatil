@@ -29,12 +29,18 @@
 
 - 💬 Ask me about **Android & iOS Developement, Java & Kotlin**
 
-### 📝 &nbsp;Blog Posts
+### 📝 &nbsp;Learn developement concepts
 
--  S.O.L.I.D. Principle — Detail Explanation **[Medium](https://medium.com/@bhaveshppatil/s-o-l-i-d-principle-detail-explanation-8a142347b791)**
--  Kotlin Coroutines Android — Detail Explanation **[Medium](https://medium.com/@bhaveshppatil/kotlin-coroutines-android-detail-explanation-c784c999bf00)**
+-  S.O.L.I.D. Principle — Detail Explanation **[Notion](https://bhaveshppatil.notion.site/S-O-L-I-D-Principles-423ea1e6308d4bcaad26aa9041cb4c84?pvs=4)**
+-  Kotlin Coroutines Android — Detail Explanation **[Notion](https://bhaveshppatil.notion.site/Coroutines-3bdd8031fe6e439285f1390a50a274e4?pvs=4)**
+-  CICD - Continuous Integration and Continuous Delivery **[Notion](https://bhaveshppatil.notion.site/CICD-1f5378180a1f400db858b2f7b1431b1a?pvs=4)**
+-  Software Development - Design Patterns **[Notion](https://bhaveshppatil.notion.site/Design-Pattern-18e1f59ca31c45e4a0579eeab000d8e8?pvs=4)**
+-  Android Application Component — Detail Explanation **[Notion](https://bhaveshppatil.notion.site/Android-Components-982ec022ecfc40c2ad0361960382e3c7?pvs=4)**
 
- 
+ ### 🤝🏻 &nbsp;Projects Readme's
+ - Agro World Farming Application **[Project Details](https://bhaveshppatil.notion.site/Agro-World-be34cad60def41ffb1ae9993aa3c9181?pvs=4)**
+ - Real Time Location **[Project Details](https://bhaveshppatil.notion.site/Real-Time-Location-Compass-Weather-f84d90f2628b41bbb95cc5c6ea286af2?pvs=4)**
+
  ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/bhavesh-patil-78b346204/" height="50" width="50" /></a>
