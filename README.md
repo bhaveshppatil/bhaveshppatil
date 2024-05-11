@@ -58,12 +58,37 @@
  </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/Sqlite-square.png" alt="sqlite" width="40" height="40"/> 
  </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/kotlin.png" alt="kotlin" width="40" height="40"/>  </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/postman.png" alt="swift" width="40" height="40"/> </a> <a href="https://www.swift.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/swift.png" alt="swift" width="40" height="40"/> </p>
 
-### ⚙️ &nbsp;GitHub Analytics
-                                                                                                                                                 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=bhaveshppatil&show_icons=true&theme=dark" width = 400 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=bhaveshppatil&theme=dark&hide_border=true" width = 400 />
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshppatil&theme=dark&hide_border=true&layout=compact" width = 400 />
-</p>
- 
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
+### Projects and Dev Stuffs:
+
+<details open>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhaveshppatil&theme=light&show_icons=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshppatil&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8"/>
+</details>
+
+<details open>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshppatil&hide_border=true" />
+</details>
+
+<details open>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOS 14 Sonoma</li>
+	    <li><b>Laptop: </b> Macbook Air M2</li>
+  	    <li><b>Browser: </b> Chrome & Brave</li>
+	    <li><b>Code Editor:</b> Android Studio, XCode, VSCode</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, Confluence</li>
+	</ul>
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
