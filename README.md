@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=bhaveshppatil&color=blue" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-24-blue" />
+<img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-Android,%20iOS%20Development -blue" />
   <img src="https://img.shields.io/badge/Lives-Navi%20Mumbai%20,%20Maharashtra -blue" />
   <img src="https://img.shields.io/badge/Languages-Marathi%20,%20Hindi%20%26%20English-blue" />
@@ -21,7 +21,7 @@
 
 - 👉 See my Experience **[Resume](https://www.canva.com/design/DAEvb4omGiA/3yxzCsAI7fjYEkRU4OzCGA/view?utm_content=DAEvb4omGiA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
 
-- 📝 I regularly write articles on **[Medium](https://medium.com/@bhaveshppatil)**
+- 📝 I regularly write articles on **[Medium](https://medium.com/@bhaveshppatil64)**
 
 - 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/bhavesh-patil-78b346204/)**
 
@@ -31,10 +31,9 @@
 
 ### 📝 &nbsp;Learn developement concepts
 
+-  Navigation Mastery in Jetpack Compose **[Read here](https://medium.com/@bhaveshppatil64/navigation-mastery-in-jetpack-compose-nav-components-lifecycle-shared-viewmodels-and-modular-1a941973b269)**
 -  S.O.L.I.D. Principle — Detail Explanation **[Read here](https://bhaveshppatil.notion.site/S-O-L-I-D-Principles-423ea1e6308d4bcaad26aa9041cb4c84?pvs=4)**
 -  Kotlin Coroutines Android — Detail Explanation **[Read here](https://bhaveshppatil.notion.site/Coroutines-3bdd8031fe6e439285f1390a50a274e4?pvs=4)**
--  CICD - Continuous Integration and Continuous Delivery **[Read here](https://bhaveshppatil.notion.site/CICD-1f5378180a1f400db858b2f7b1431b1a?pvs=4)**
--  Software Development - Design Patterns **[Read here](https://bhaveshppatil.notion.site/Design-Pattern-18e1f59ca31c45e4a0579eeab000d8e8?pvs=4)**
 -  Android Application Component — Detail Explanation **[Read here](https://bhaveshppatil.notion.site/Android-Components-982ec022ecfc40c2ad0361960382e3c7?pvs=4)**
 
  ### 🤝🏻 &nbsp;Projects Readme's
@@ -45,7 +44,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/bhavesh-patil-78b346204/" height="50" width="50" /></a>
 <a href="mailto:bhavesh.patil0325@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:bhavesh.patil0325@gmail.com" height="50" width="50" /></a>
-<a href="https://twitter.com/bhavesh__patil" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/bhavesh__patil" height="50" width=50" /></a>
 </p>
 
  ### 🛠 &nbsp;Languages and Tools
