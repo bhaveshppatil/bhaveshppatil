@@ -19,7 +19,7 @@
 
 - 👉 Check out my **[Portfolio](https://bhaveshppatil.github.io/)**
 
-- 👉 See my Experience **[Resume](https://www.canva.com/design/DAEvb4omGiA/3yxzCsAI7fjYEkRU4OzCGA/view?utm_content=DAEvb4omGiA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+- 👉 See my Experience **[Resume](https://www.canva.com/design/DAEvb4omGiA/dyLljo8uwihQs0kUfXyADw/edit?utm_content=DAEvb4omGiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 - 📝 I regularly write articles on **[Medium](https://medium.com/@bhaveshppatil64)**
 
